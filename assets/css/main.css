@@ -356,3 +356,6 @@ fonts{
 .awesome{
 	font-family: 'Roboto Condensed', sans-serif;
 }
+.carousel-control{
+	opacity: 0;
+}
